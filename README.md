@@ -1,4 +1,4 @@
-# BaseActivity-for-Loader-Android-Kotlin
+# BaseActivity-for-IOS-Loader-in-Android-Kotlin
 
 #add in theme file
 
